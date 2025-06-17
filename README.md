@@ -40,8 +40,8 @@ A many-to-many encoder–decoder sequence model built with LSTM to translate Eng
 
 1. **Clone the repo**  
    ```bash
-   git clone <repo_url>
-   cd <repo_folder>
+   git clone https://github.com/Saptha-Harsh/Language-Translation.git
+   cd Language-Translation
    ```
 
 2. **Install dependencies**  
